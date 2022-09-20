@@ -1,6 +1,10 @@
 # NLW Ignite
 
-Iniciar projeto:
+Projeto para encontrar dupla (duo) para jogos.
+
+![image](https://user-images.githubusercontent.com/66702430/191361346-89e620eb-afb6-4888-b84b-d0cc994f8067.png)
+
+### Iniciar projeto:
 
 Web:
 ```
@@ -12,13 +16,7 @@ Server:
 npm run dev
 ```
 
-API:
-Listagem de Games (GET)
-Listagems de Anúncios por Game (GET)
-Buscar código Discord por Anúncio (GET)
-Criar Anúncios (POST)
-
-## Tecnologias
+### Tecnologias
 
 - React
 - Node
@@ -28,3 +26,10 @@ Criar Anúncios (POST)
 - CORS
 - Vite
 - Tailwind
+
+### API:
+
+- Listagem de Games (GET)
+- Listagems de Anúncios por Game (GET)
+- Buscar código Discord por Anúncio (GET)
+- Criar Anúncios (POST)
