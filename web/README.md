@@ -17,3 +17,5 @@ npx tailwindcss init
 ..
 
 npm i phosphor-react
+
+npm install @radix-ui/react-dialog
