@@ -1,8 +1,13 @@
 # NLW Ignite
 
-Projeto para encontrar dupla (duo) para jogos.
+### Projeto para encontrar dupla (duo) para jogos.
 
-![image](https://user-images.githubusercontent.com/66702430/191361346-89e620eb-afb6-4888-b84b-d0cc994f8067.png)
+## Telas
+
+![image](https://user-images.githubusercontent.com/66702430/191643626-d71be161-5c46-4ceb-8273-1789ca6204a1.png)
+---
+![image](https://user-images.githubusercontent.com/66702430/191643651-7737ee7b-7df9-4b69-856c-03e413f25b04.png)
+---
 
 ### Iniciar projeto:
 
@@ -36,8 +41,8 @@ npm run dev
 
 ### Possíveis melhorias:
 
-- [] Responsividade
-- [] Carousel (https://keen-slider.io/)
-- [] Select com Radix
-- [] Validação (https://react-hook-form.com/)/(https://github.com/colinhacks/zod)
-- [] Autenticação (Twitch?Discord?)
+- [ ] Responsividade
+- [ ] Carousel (https://keen-slider.io/)
+- [ ] Select com Radix
+- [ ] Validação (https://react-hook-form.com/)/(https://github.com/colinhacks/zod)
+- [ ] Autenticação (Twitch?Discord?)
