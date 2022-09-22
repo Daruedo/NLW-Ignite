@@ -33,3 +33,11 @@ npm run dev
 - Listagems de Anúncios por Game (GET)
 - Buscar código Discord por Anúncio (GET)
 - Criar Anúncios (POST)
+
+### Possíveis melhorias:
+
+- [] Responsividade
+- [] Carousel (https://keen-slider.io/)
+- [] Select com Radix
+- [] Validação (https://react-hook-form.com/)/(https://github.com/colinhacks/zod)
+- [] Autenticação (Twitch?Discord?)
